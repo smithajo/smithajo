@@ -1,4 +1,4 @@
-###  I'm Smitha
+###  Hi I'm Smitha
 #### I am a learner, a really slow one at that, but slow and steady does win the race.
 New to a lot of things and taking it all in. Hope to do more fun filled and interesting stuff.
 
@@ -13,7 +13,7 @@ Skills: PYTHON/C/HTML / CSS/R
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smithajo&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smithajo&show_icons=true&theme=tokyonight)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithajo)](https://github.com/anuraghazra/github-readme-stats)
 
