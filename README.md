@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning R Language  
 - 🤔 I’m looking for help with Machine Learning 
+
 - 👾 Skills: PYTHON/C/HTML / CSS/R
+
 
 📫 You can reach out to me on: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' width='20'>](https://github.com/smithajo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' width='20'>](https://www.linkedin.com/in/smitha-john-72006715b/
