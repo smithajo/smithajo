@@ -6,7 +6,6 @@ Skills: PYTHON/C/HTML / CSS/R
 
 - 🌱 I’m currently learning R Language  
 - 🤔 I’m looking for help with Machine Learning 
-- 📫 How to reach me: 1704smithajohn@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smithajo)  
