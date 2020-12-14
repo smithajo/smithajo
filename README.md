@@ -3,10 +3,10 @@
 ### Can be cute and hungry at the same time 😋
 *New to a lot of things. Hope to do more fun filled and interesting stuff.*
 
-- 🌱 I’m currently learning R Language  
+- 🌱 I’m currently learning lots  
 - 🤔 I’m looking for help with Machine Learning 
 
-- 👾 Skills: PYTHON/C/HTML / CSS/R
+- 👾 Skills: PYTHON/C/HTML / CSS
 
 
 📫 You can reach out to me on: 
